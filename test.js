@@ -9,6 +9,9 @@
 		},
 		multiply:function(x,v){
 			return x*y;
+		},
+		divide : function(x,y){
+			return x/y;
 		}
 	}
 })
