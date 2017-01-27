@@ -18,6 +18,9 @@
 		},
 		cube:function(x){
 			return x*x*x;
+		},
+		pi : function(){
+			return 3.14;
 		}
 	}
 })
