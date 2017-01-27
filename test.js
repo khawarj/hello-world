@@ -8,7 +8,7 @@
 			return x-y;
 		},
 		multiply:function(x,v){
-
+			return x*y;
 		}
 	}
 })
